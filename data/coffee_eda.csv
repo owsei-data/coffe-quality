@@ -1,0 +1,197 @@
+,Country of Origin,Altitude,Variety,Processing Method,Total Cup Points,Moisture Percentage,Category One Defects,Quakers,Category Two Defects
+0,Colombia,1815.0,Castillo,Double Anaerobic Washed,89.33,11.8,0,0,3
+1,Taiwan,1200.0,Gesha,Washed / Wet,87.58,10.5,0,0,0
+2,Laos,1300.0,Java,Semi Washed,87.42,10.4,0,0,2
+3,Costa Rica,1900.0,Gesha,Washed / Wet,87.17,11.8,0,0,0
+4,Colombia,1975.0,Red Bourbon,"Honey,Mossto",87.08,11.6,0,2,2
+5,Guatemala,1668.0,Gesha,Washed / Wet,87.0,10.7,0,0,2
+6,Taiwan,1250.0,Gesha,Washed / Wet,86.92,9.1,0,0,0
+7,Taiwan,1200.0,Sl34+Gesha,Natural / Dry,86.75,10.0,0,0,1
+8,Taiwan,1250.0,SL34,Washed / Wet,86.67,10.8,0,0,0
+9,"Tanzania, United Republic Of",1550.0,Bourbon,Washed / Wet,86.5,11.0,0,0,0
+10,Ethiopia,2000.0,Ethiopian Heirlooms,Natural / Dry,86.25,11.8,0,1,1
+11,Guatemala,2000.0,Gesha,Natural / Dry,86.25,11.5,0,0,1
+12,Taiwan,1250.0,Gesha,Washed / Wet,86.25,11.9,0,0,0
+13,Ethiopia,1950.0,Gesha,Natural / Dry,86.17,11.6,0,3,2
+14,Colombia,1850.0,Caturra,Washed / Wet,86.17,10.6,0,0,0
+15,Taiwan,1100.0,SL34,Pulped natural / honey,86.08,10.2,0,0,0
+16,Ethiopia,2000.0,"Wolishalo,Kurume,Dega",Washed / Wet,86.08,11.3,0,2,2
+17,Taiwan,1300.0,Gesha,Natural / Dry,86.08,10.3,0,0,0
+18,Taiwan,1200.0,Gesha,Natural / Dry,85.92,11.0,0,0,1
+19,"Tanzania, United Republic Of",1585.0,Bourbon,Washed / Wet,85.83,10.0,0,0,0
+20,Guatemala,1900.0,Gesha,Natural / Dry,85.75,11.6,0,0,0
+21,Taiwan,850.0,Typica,Natural / Dry,85.67,10.4,0,0,0
+22,Thailand,1600.0,Catimor,Pulped natural / honey,85.67,9.8,0,0,5
+24,Taiwan,1250.0,SL34,Washed / Wet,85.58,10.6,0,0,0
+26,Taiwan,1300.0,Gesha,Natural / Dry,85.5,9.1,0,0,2
+27,Taiwan,1200.0,Gesha,Natural / Dry,85.5,10.6,0,0,0
+28,Taiwan,1060.0,Gesha,Natural / Dry,85.5,10.2,0,0,0
+29,United States (Hawaii),600.0,Typica,Washed / Wet,85.42,9.3,0,0,0
+30,Taiwan,200.0,Typica,Washed / Wet,85.42,11.4,0,0,0
+31,Taiwan,200.0,Typica,Washed / Wet,85.33,10.8,0,0,0
+32,Taiwan,668.0,Gesha,Washed / Wet,85.33,11.3,0,0,0
+33,Ethiopia,1950.0,Ethiopian Heirlooms,Washed / Wet,85.33,9.9,0,2,3
+34,Ethiopia,2250.0,Ethiopian Heirlooms,Natural / Dry,85.33,12.3,0,3,4
+35,Ethiopia,1700.0,Ethiopian Heirlooms,Washed / Wet,85.25,9.4,0,1,1
+36,Taiwan,1200.0,Gesha,Washed / Wet,85.25,9.5,0,0,0
+37,Taiwan,650.0,Gesha,Pulped natural / honey,85.25,11.3,0,0,0
+38,Kenya,1750.0,SL28,Washed / Wet,85.25,9.2,0,0,1
+39,Taiwan,850.0,Gesha,Washed / Wet,85.17,10.3,0,0,0
+40,Taiwan,400.0,Typica,Natural / Dry,85.08,10.0,0,0,0
+41,Taiwan,1000.0,Typica,Washed / Wet,85.08,10.5,0,0,0
+42,Taiwan,800.0,Gesha,Washed / Wet,85.08,10.0,0,0,5
+43,Uganda,1905.0,SL14,Washed / Wet,85.0,11.0,0,0,1
+45,Taiwan,800.0,Gesha,Natural / Dry,85.0,10.1,0,0,0
+46,Guatemala,1600.0,Caturra,Washed / Wet,85.0,9.9,0,1,1
+47,Guatemala,4700.0,Catuai,Washed / Wet,85.0,11.3,0,0,4
+48,Guatemala,1600.0,Caturra,Washed / Wet,84.92,11.7,0,3,1
+49,Taiwan,375.0,Typica,Washed / Wet,84.92,9.5,0,0,2
+50,Taiwan,230.0,Yellow Bourbon,Natural / Dry,84.83,9.7,0,0,0
+52,Peru,1750.0,Gesha,Washed / Wet,84.83,10.7,0,0,0
+53,"Tanzania, United Republic Of",1654.0,Bourbon,Washed / Wet,84.83,11.2,0,0,0
+54,Taiwan,1300.0,SL34,Natural / Dry,84.83,9.5,0,0,0
+55,Taiwan,1400.0,SL34,Washed / Wet,84.75,10.4,0,0,0
+56,Brazil,1100.0,Yellow Bourbon,Double Carbonic Maceration / Natural,84.75,11.2,0,1,5
+57,Panama,1200.0,Catuai,Washed / Wet,84.75,10.3,0,1,5
+58,Taiwan,1200.0,Yellow Bourbon,Pulped natural / honey,84.75,10.0,0,0,0
+59,Guatemala,1600.0,Caturra,Washed / Wet,84.67,10.6,0,0,1
+60,Guatemala,4895.0,Bourbon,Natural / Dry,84.67,10.9,0,3,2
+61,Costa Rica,1850.0,Caturra,Washed / Wet,84.67,10.0,0,1,2
+62,Taiwan,250.0,Typica,Pulped natural / honey,84.58,9.6,0,0,0
+63,Taiwan,700.0,Gesha,Pulped natural / honey,84.58,11.5,0,0,0
+64,Nicaragua,1350.0,Catrenic,Natural / Dry,84.58,9.9,1,0,2
+65,Taiwan,1250.0,Gesha,Washed / Wet,84.58,11.2,0,0,2
+66,Taiwan,1450.0,SL34,Natural / Dry,84.58,10.3,0,0,0
+67,Vietnam,650.0,Catimor,Natural / Dry,84.58,11.6,0,0,0
+68,Costa Rica,1900.0,Gesha,Washed / Wet,84.5,11.7,0,1,0
+69,Taiwan,520.0,unknown,Pulped natural / honey,84.5,11.3,0,0,0
+70,Honduras,1368.0,Catuai,Washed / Wet,84.5,9.8,0,0,3
+71,Ethiopia,1943.0,Ethiopian Heirlooms,Washed / Wet,84.5,10.9,0,0,9
+72,Taiwan,400.0,Typica,Natural / Dry,84.5,10.2,0,0,0
+73,Taiwan,850.0,Gesha,Washed / Wet,84.42,10.1,0,0,1
+74,Guatemala,1350.0,Bourbon,Washed / Wet,84.33,9.2,0,1,5
+75,United States (Hawaii),1300.0,Catuai,Washed / Wet,84.33,10.1,3,0,7
+76,Ethiopia,2361.0,Ethiopian Heirlooms,Natural / Dry,84.33,11.0,0,5,4
+77,El Salvador,1500.0,Pacamara,Pulped natural / honey,84.33,10.3,0,0,4
+78,Colombia,2100.0,Castillo and Colombia blend,Washed / Wet,84.33,11.6,0,0,1
+79,Indonesia,1300.0,"Jember,TIM-TIM,Ateng",Wet Hulling,84.25,11.5,0,1,1
+80,Guatemala,1600.0,Typica,Washed / Wet,84.25,10.0,0,0,1
+81,Madagascar,1500.0,Bourbon,Washed / Wet,84.25,12.1,0,0,0
+82,Honduras,1368.0,Catuai,Washed / Wet,84.17,10.2,0,0,2
+83,Guatemala,1600.0,Caturra,Washed / Wet,84.08,11.0,0,3,2
+84,Taiwan,150.0,unknown,Pulped natural / honey,84.08,10.8,0,0,2
+85,Taiwan,800.0,Gesha,Natural / Dry,84.08,10.6,0,0,0
+86,Guatemala,1550.0,Caturra,Washed / Wet,84.08,11.0,0,1,2
+87,Guatemala,1550.0,Caturra,Washed / Wet,84.0,11.0,0,2,2
+88,Honduras,1800.0,Typica,Pulped natural / honey,84.0,9.4,0,0,0
+89,"Tanzania, United Republic Of",1675.0,Bourbon,Washed / Wet,84.0,9.8,0,0,3
+90,Ethiopia,1800.0,Ethiopian Heirlooms,Washed / Wet,84.0,11.3,1,1,1
+91,"Tanzania, United Republic Of",1550.0,Bourbon,Washed / Wet,84.0,11.6,0,0,2
+92,Colombia,1550.0,Caturra,Washed / Wet,84.0,13.3,0,2,3
+93,Costa Rica,1850.0,Caturra,Washed / Wet,83.92,9.5,0,0,2
+94,Guatemala,1900.0,Gesha,Natural / Dry,83.92,11.9,0,0,0
+95,Guatemala,1600.0,Bourbon,Washed / Wet,83.92,10.0,0,1,2
+96,Thailand,1350.0,Catimor,Natural / Dry,83.92,11.6,0,0,3
+98,Guatemala,1400.0,"BOURBON, CATURRA Y CATIMOR",Natural / Dry,83.83,10.8,0,0,4
+99,Guatemala,5272.5,Bourbon,Washed / Wet,83.83,10.9,0,1,4
+100,Ethiopia,2000.0,Ethiopian Heirlooms,Washed / Wet,83.83,12.0,0,0,12
+101,Colombia,1700.0,Caturra,Washed / Wet,83.83,12.1,2,5,5
+102,United States (Hawaii),500.0,Typica,Washed / Wet,83.83,11.8,0,3,3
+103,Colombia,1800.0,Bourbon Sidra,Pulped natural / honey,83.75,10.6,0,0,1
+104,Mexico,1200.0,Sarchimor,Washed / Wet,83.75,11.7,4,0,12
+106,Taiwan,1250.0,SL34,Washed / Wet,83.67,10.0,0,0,0
+107,Myanmar,1400.0,"Catimor,Catuai,Caturra,Bourbon",Natural / Dry,83.67,10.2,0,1,1
+108,Taiwan,300.0,unknown,Pulped natural / honey,83.67,9.2,0,0,0
+109,Honduras,1470.0,Parainema,Natural / Dry,83.67,11.1,0,2,1
+110,Taiwan,325.0,unknown,Natural / Dry,83.58,8.4,0,0,0
+111,Taiwan,275.0,Typica,Pulped natural / honey,83.58,9.1,0,0,0
+112,Guatemala,1600.0,Caturra,Washed / Wet,83.58,10.9,0,2,4
+113,Honduras,1400.0,SHG,Washed / Wet,83.5,11.2,0,1,5
+114,Colombia,1700.0,Caturra,Washed / Wet,83.5,12.2,0,0,2
+115,Thailand,1390.0,Bourbon,Washed / Wet,83.5,13.1,0,0,0
+116,Ethiopia,1700.0,Ethiopian Heirlooms,Washed / Wet,83.5,10.4,0,1,11
+117,Thailand,1450.0,Java,Washed / Wet,83.42,11.6,0,2,0
+118,Uganda,1650.0,SL14,Washed / Wet,83.42,10.1,0,0,3
+119,Taiwan,1100.0,Typica + SL34,Washed / Wet,83.42,10.1,0,0,0
+120,Uganda,1905.0,SL14,Washed / Wet,83.33,11.1,0,0,5
+121,Taiwan,250.0,Typica,Pulped natural / honey,83.33,9.7,0,0,0
+122,Guatemala,1302.5,"MARSELLESA, CATUAI, CATURRA & MARSELLESA, ANACAFE 14, CATUAI",Washed / Wet,83.33,11.4,0,0,0
+123,Taiwan,300.0,Typica,Washed / Wet,83.33,9.6,0,0,1
+124,Colombia,1100.0,Caturra,Washed / Wet,83.33,13.5,0,0,0
+125,Costa Rica,1850.0,Caturra,Washed / Wet,83.33,0.0,0,0,3
+126,Taiwan,750.0,SL34,Washed / Wet,83.33,10.7,0,0,1
+127,Thailand,1400.0,Typica,Washed / Wet,83.33,12.3,0,0,16
+128,"Tanzania, United Republic Of",1550.0,Bourbon,Washed / Wet,83.25,10.4,0,0,8
+129,Brazil,950.0,Mundo Novo,Natural / Dry,83.25,11.6,0,0,4
+130,Taiwan,1150.0,unknown,Washed / Wet,83.25,9.6,0,0,1
+131,Colombia,1390.0,"Red Bourbon,Caturra",Anaerobico 1000h,83.25,10.9,0,0,2
+132,Honduras,1600.0,Lempira,Washed / Wet,83.25,10.5,0,0,3
+133,Honduras,1400.0,Catuai,Washed / Wet,83.25,11.3,0,1,5
+134,Taiwan,250.0,Typica,Natural / Dry,83.17,9.7,0,0,2
+135,Taiwan,340.0,unknown,Washed / Wet,83.17,11.8,0,0,0
+136,Laos,1250.0,Catimor,Natural / Dry,83.08,11.8,0,0,7
+137,Honduras,1368.0,Catuai,Washed / Wet,83.08,10.6,0,2,7
+138,Honduras,1450.0,Catuai,Washed / Wet,83.08,9.6,0,0,2
+139,Colombia,1650.0,Caturra,Washed / Wet,83.0,13.1,0,0,1
+140,Taiwan,275.0,Typica,Pulped natural / honey,82.92,8.9,0,0,0
+141,Mexico,1350.0,Bourbon,Washed / Wet,82.92,11.9,2,0,1
+142,Colombia,1350.0,Typica Gesha,Washed / Wet,82.92,11.5,0,1,3
+144,Honduras,1280.0,Catuai,Washed / Wet,82.83,10.0,0,0,4
+145,Thailand,1400.0,Gayo,Washed / Wet,82.83,11.8,0,0,5
+146,Vietnam,900.0,Catimor,Pulped natural / honey,82.83,13.3,0,0,4
+147,Nicaragua,1200.0,SHG,Natural / Dry,82.75,10.5,5,2,1
+148,Costa Rica,1450.0,SL28,Pulped natural / honey,82.75,11.8,0,0,1
+149,Colombia,1700.0,Caturra,Washed / Wet,82.67,11.8,0,1,2
+150,Thailand,1390.0,Caturra,Washed / Wet,82.67,13.0,1,0,0
+151,Thailand,1200.0,"Bourbon, Catimor, Caturra, Typica",Natural / Dry,82.67,11.2,0,0,0
+152,Honduras,1450.0,Catuai,Washed / Wet,82.67,9.6,0,0,2
+153,Taiwan,165.0,unknow,Natural / Dry,82.58,9.8,0,0,0
+154,Taiwan,465.0,Caturra,Washed / Wet,82.58,8.4,0,0,2
+155,Nicaragua,1350.0,Parainema,Washed / Wet,82.58,10.1,0,0,0
+156,El Salvador,1200.0,Bourbon,Washed / Wet,82.5,11.3,0,0,2
+157,Panama,1200.0,Caturra,Washed / Wet,82.5,10.0,0,0,0
+158,Brazil,1100.0,Mundo Novo,Natural / Dry,82.5,11.8,0,1,1
+159,United States (Hawaii),640.0,Maragogype,Washed / Wet,82.5,11.7,0,0,1
+160,Mexico,1340.0,Pacamara,Washed / Wet,82.5,10.7,0,0,0
+161,Honduras,1368.0,Catuai,Washed / Wet,82.5,10.6,0,0,8
+162,Taiwan,139.0,unknown,Washed / Wet,82.5,8.4,0,0,2
+163,Nicaragua,1275.0,Caturra-Catuai,Washed / Wet,82.42,11.4,0,0,0
+164,Vietnam,1040.0,Catimor,Washed / Wet,82.33,10.5,0,0,0
+165,El Salvador,1200.0,Bourbon,Washed / Wet,82.33,12.0,0,7,10
+166,El Salvador,1200.0,Bourbon,Washed / Wet,82.33,11.8,0,0,0
+167,Taiwan,140.0,unknown,Natural / Dry,82.33,10.8,0,0,1
+168,Peru,1600.0,Caturra,Washed / Wet,82.25,11.7,0,1,3
+169,United States (Hawaii),1200.0,Typica,Washed / Wet,82.17,10.6,1,0,5
+170,Kenya,1725.0,"SL28,SL34,Ruiru11",Washed / Wet,82.17,11.2,0,0,2
+171,Honduras,1368.0,Catuai,Washed / Wet,82.17,10.6,0,0,8
+172,Taiwan,600.0,unknown,Washed / Wet,82.08,9.7,0,0,0
+173,Taiwan,460.0,unknown,Pulped natural / honey,82.08,8.1,0,0,3
+174,Taiwan,500.0,unknown,Washed / Wet,82.0,8.2,0,0,1
+175,Thailand,1000.0,Catimor,Washed / Wet,82.0,9.8,0,0,0
+176,Costa Rica,1500.0,Caturra,Washed / Wet,82.0,10.5,1,2,8
+179,Peru,1600.0,Caturra,Washed / Wet,81.92,11.6,0,2,2
+180,Guatemala,1400.0,Caturra,Washed / Wet,81.92,10.3,0,0,1
+181,Taiwan,300.0,Typica,Pulped natural / honey,81.83,11.3,0,0,0
+182,Vietnam,5400.0,Catimor,Pulped natural / honey,81.83,11.2,0,0,4
+183,Brazil,1000.0,Yellow Catuai,Pulped natural / honey,81.83,11.3,0,0,2
+184,Brazil,950.0,Catucai,Natural / Dry,81.75,11.1,0,0,0
+185,Colombia,1574.0,Santander,Washed / Wet,81.75,11.2,0,0,0
+186,Mexico,1200.0,Typica,Washed / Wet,81.67,11.8,2,0,2
+187,Costa Rica,1200.0,Caturra,Washed / Wet,81.58,9.7,0,2,4
+188,Taiwan,300.0,Typica,Pulped natural / honey,81.58,9.0,0,0,0
+189,Taiwan,435.0,unknown,Pulped natural / honey,81.5,8.5,0,0,0
+190,Thailand,1400.0,Java,Washed / Wet,81.42,11.6,2,0,1
+191,Thailand,1400.0,Typica Bourbon Caturra Catimor,Natural / Dry,81.33,10.5,0,0,5
+192,Thailand,700.0,Catimor,Washed / Wet,81.17,10.4,0,0,0
+193,Colombia,1550.0,"Caturra,Colombia,Castillo",Washed / Wet,81.17,11.4,0,2,2
+195,El Salvador,1400.0,Bourbon,Natural / Dry,80.83,10.5,0,8,7
+197,Nicaragua,1000.0,Sarchimor,Washed / Wet,80.42,11.2,0,0,5
+198,Colombia,1600.0,"Castillo,Caturra,Bourbon",Washed / Wet,80.42,11.0,0,3,3
+199,Peru,1600.0,Caturra,Washed / Wet,80.33,11.8,0,6,11
+200,El Salvador,1300.0,Pacas,Natural / Dry,80.33,11.5,0,10,7
+201,Brazil,1200.0,Catuai and Mundo Novo,Natural / Dry,80.17,11.6,0,1,2
+202,Brazil,950.0,Mundo Novo,Natural / Dry,80.08,11.4,0,0,4
+203,Nicaragua,1200.0,SHG,Natural / Dry,80.0,10.4,0,2,12
+204,Laos,1300.0,Catimor,Washed / Wet,79.67,11.6,0,9,11
+205,El Salvador,1200.0,Maragogype,Natural / Dry,78.08,11.0,0,12,13
+206,Brazil,975.0,Mundo Novo,SEMI-LAVADO,78.0,11.3,0,0,1
